@@ -11,11 +11,22 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 ### ADDITIONS
 - [x] mod for opening both doors at once
 - [] more EMI
+- [] add compat for serene seasons to other mods (via tags)
+- [] move options to kubejs config
+- [] aquaculture mod??
+- [] custom cobblegens through cobblegen mod
+- [] compost mod for composter compost (too much compost)
+- [] add structure path mod
 
 ### TEXTURES
 - [] retexture currency
 - [] retexture runes
 - [] retexture topaz (in order to fit it's rune)
+- [] add  golden crits
+- [] add distinguishable enchant book textures
+- [] add distinguishable potion textures
+- [] add distinguishable banner textures
+- [] add missing compat textures for sophisticated mods and create
 
 ### RECIPES
 - [] add recipes for horse armor
@@ -23,9 +34,11 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 - [] make recipes color agnostic
 - [] make some potions use different bases
 - [x] make runes craftable with gems and xp
+- [x] disable easy anvils nametag recipe
 - [] integrate create, farmers delight and neapolitan's food recipes
 - [] add copper aging recipes for create for Filling (spout) and Washing (fan)
 - [] add rough gem variants for all gems, as seen in the mod spelunkery, make them polishable with sandpaper or grindstone
+- [] easier campfire recipe
 
 ### DUPLICATES
 - [x] remove duplicate quivers from archers rpg series and supplementaries
@@ -33,6 +46,9 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 - [x] remove duplicate ropes from supplementaries and create
 - [] remove duplicate wrenches from create and supplementaries
 - [] remove duplicate wheat doughs from create and farmers delight
+- [] overlap between create auto crafting and vanilla auto crafting
+- [] overlap between daub from supplementaries and pulp from create
+- [] remove duplicate honey fluids from brewin and chewin and create
 
 ### IDEAS
 - [] replace stone block drops (andesite, diorite etc) with cobbled variants
@@ -42,8 +58,15 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
     - [] use runes for creating rare enchanting books
     - [] integrate with create enchantment industries
 - [] more mob heads / player heads / block heads
+- progression
+    - [] remove stone tools??
+    - [] make all tools a tad more durable and effective??
+    - [] add branching tool progression
+- [] improve archeology
 
 ### POLISHING TOUCHES
 - [] add custom advancements
 - [] remove creative only items from appearing in emi
+- [] remove undesired items
 - [] split modpack into client-side and server-side folders
+- [] configure structure generation
