@@ -44,5 +44,15 @@ ServerEvents.recipes(event => {
         event.recipes.create.pressing('numismatics:spur', 'create:copper_nugget')
         event.recipes.create.pressing('numismatics:bevel', 'create:zinc_nugget')
         event.recipes.create.pressing('numismatics:cog', 'create:brass_nugget')
-})
 
+        // rope adjustments
+        event.remove({ output: 'supplementaries:rope' })
+        event.shapeless(
+                Item.of('supplementaries:rope', 3), // arg 1: output
+                [ '3x supplementaries:flax' ]  // arg 2: the array of inputs
+        )
+        event.shapeless(
+                Item.of('supplementaries:rope', 1), // arg 1: output
+                [ '3x farmersdelight:straw' ]  // arg 2: the array of inputs
+        )
+})

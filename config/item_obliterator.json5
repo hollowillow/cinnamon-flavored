@@ -16,6 +16,7 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
+    "farmersdelight:rope",
     "sophisticatedcore:xp_bucket",
   ],
   // -----------------------------------------------------------
