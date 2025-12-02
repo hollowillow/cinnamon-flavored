@@ -12,7 +12,7 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 - [x] mod for opening both doors at once
 - [ ] more EMI
 - [ ] add compat for serene seasons to other mods (via tags)
-- [ ] move options to kubejs config
+- [x] move options to kubejs config
 - [ ] aquaculture mod??
 - [ ] custom cobblegens through cobblegen mod
 - [ ] compost mod for composter compost (too much compost)

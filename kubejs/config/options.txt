@@ -6,17 +6,17 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.0
-fovEffectScale:1.0
-darknessEffectScale:1.0
+fov:0.5
+fovEffectScale:0.5
+darknessEffectScale:0.5
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
 graphicsMode:1
-guiScale:4
-maxFps:120
+guiScale:0
+maxFps:260
 mipmapLevels:4
 narrator:0
 particles:0
@@ -24,7 +24,7 @@ reducedDebugInfo:false
 renderClouds:"true"
 renderDistance:12
 simulationDistance:12
-screenEffectScale:1.0
+screenEffectScale:0.5
 soundDevice:""
 autoJump:false
 operatorItemsTab:false
@@ -34,22 +34,61 @@ chatLinks:true
 chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 showSubtitles:false
-directionalAudio:false
+directionalAudio:true
 touchscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
-damageTiltStrength:1.0
+damageTiltStrength:0.5
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/AL\u0027s Dungeons Boss Bars 1.0.1.zip","file/Better-Leaves-9.4.zip","file/Create Utility.zip","file/CreateSophStorage.zip","file/CreateSophisticatedBackpacks.zip","file/Detail-Brush-1.8-1.20.2+.zip","file/Fancy Crops v1.3.zip","file/Fine Armoury v1.7.zip","file/FreshAnimations_v1.10.2.zip","file/FreshCompats_v1.6.zip","file/Mandala\u0027s GUI - Dark Mode Compat 0.3.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip","file/Os\u0027 Colorful Grasses (Short and Fluffy).zip","file/Os\u0027 Crops.zip","file/Serified Font v1.2.zip","file/Simple Grass Flowers v1.9.6.zip","file/Visual Titles 1.1.zip","black_icons"]
-incompatibleResourcePacks:["file/AL\u0027s Dungeons Boss Bars 1.0.1.zip","file/Create Utility.zip","file/CreateSophStorage.zip","file/CreateSophisticatedBackpacks.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip"]
+resourcePacks:[
+        "vanilla",
+        "fabric",
+        "mod_resources",
+        "moonlight:merged_pack",
+        "continuity:default",
+        "continuity:glass_pane_culling_fix",
+        "file/Connected Paths v1.4.zip",
+        "file/Create Utility.zip",
+        "file/CreateSophStorage.zip",
+        "file/CreateSophisticatedBackpacks.zip",
+        "supplementaries:darker_ropes",
+        "file/Simple Grass Flowers v1.9.6.zip",
+        "file/Os\u0027 Colorful Grasses (Short and Fluffy).zip",
+        "file/Fancy Crops v1.3.zip",
+        "file/Better-Leaves-9.4.zip",
+        "file/FreshAnimations_v1.10.2.zip",
+        "file/FA+All_Extensions-v1.6.zip",
+        "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+        "file/AL\u0027s Zombies Revamped+FA 1.4.1.zip",
+        "file/AL\u0027s Creepers Revamped 1.5.2.zip",
+        "file/AL\u0027s Skeletons Revamped+FA 1.5.3.zip",
+        "file/AL\u0027s Boss Rush+FA 1.2.zip",
+        "file/Assorted Allays x FA - V.10.1.zip",
+        "file/MandalasGUI+Darkmode_1.21.5_1.zip",
+        "file/Mandala\u0027s GUI - Dark Mode Compat 0.3.zip",
+        "file/Serified Font v1.2.zip",
+        "file/Visual Titles 1.1.zip",
+        "black_icons",
+        "file/Icons v.1.12.1.zip",
+        "file/Icon Branding Remover - For 1.8-1.21.8.zip",
+        "file/Golden crit.zip",
+        "file/MC Dungeons Crit Sound 1.21.2 - 1.21.3.zip",
+        "file/AL\u0027s Dungeons Boss Bars 1.0.1.zip",
+        "file/§3Fresh §bFlower Pots.zip",
+        "file/YAGOP.zip",
+        "file/Banner Pattern Clarity v1.6.zip"
+        "file/Detail-Brush-1.8-1.20.2+.zip",
+        "file/Fine Armoury v1.7.zip",
+]
+incompatibleResourcePacks:[""]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -75,10 +114,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
-hideBundleTutorial:false
+hideBundleTutorial:true
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
