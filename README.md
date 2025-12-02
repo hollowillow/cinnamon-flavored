@@ -22,11 +22,12 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 - [ ] retexture currency
 - [ ] retexture runes
 - [ ] retexture topaz (in order to fit it's rune)
-- [ ] add  golden crits
+- [x] add  golden crits
 - [ ] add distinguishable enchant book textures
 - [ ] add distinguishable potion textures
-- [ ] add distinguishable banner textures
+- [x] add distinguishable banner textures
 - [ ] add missing compat textures for sophisticated mods and create
+- [ ] enable nebulae as default in shaders
 
 ### RECIPES
 - [ ] add recipes for horse armor
@@ -70,3 +71,4 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 - [ ] remove undesired items
 - [ ] split modpack into client-side and server-side folders
 - [ ] configure structure generation
+- [ ] add custom panorama
