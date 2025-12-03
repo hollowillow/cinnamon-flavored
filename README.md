@@ -10,7 +10,7 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 
 ### ADDITIONS
 - [x] mod for opening both doors at once
-- [ ] more EMI
+- [x] more EMI
 - [ ] add compat for serene seasons to other mods (via tags)
 - [x] move options to kubejs config
 - [ ] aquaculture mod??

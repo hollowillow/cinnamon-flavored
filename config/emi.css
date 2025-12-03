@@ -167,12 +167,12 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: craftables, favorites;
+	left-sidebar-pages: favorites;
 
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: craft-history 1;
+	left-sidebar-subpanels: craftables 5;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
