@@ -8,7 +8,7 @@ ServerEvents.recipes(event => {
                 'create:experience_nugget'     // arg 4: the upgrade item
         )
         event.smithing(
-                'runes:arcane_stone',   // arg 1: output
+                '2x runes:arcane_stone',   // arg 1: output
                 'runes:arcane_stone',     // arg 2: the smithing template
                 '#c:stones',    // arg 3: the item to be upgraded
                 'create:experience_nugget'     // arg 4: the upgrade item
@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
                 'create:experience_nugget'     // arg 4: the upgrade item
         )
         event.smithing(
-                'runes:fire_stone',   // arg 1: output
+                '2x runes:fire_stone',   // arg 1: output
                 'runes:fire_stone',     // arg 2: the smithing template
                 '#c:stones',    // arg 3: the item to be upgraded
                 'create:experience_nugget'     // arg 4: the upgrade item
@@ -34,7 +34,7 @@ ServerEvents.recipes(event => {
                 'create:experience_nugget'     // arg 4: the upgrade item
         )
         event.smithing(
-                'runes:healing_stone',   // arg 1: output
+                '2x runes:healing_stone',   // arg 1: output
                 'runes:healing_stone',     // arg 2: the smithing template
                 '#c:stones',    // arg 3: the item to be upgraded
                 'create:experience_nugget'     // arg 4: the upgrade item
@@ -47,7 +47,7 @@ ServerEvents.recipes(event => {
                 'create:experience_nugget'     // arg 4: the upgrade item
         )
         event.smithing(
-                'runes:lightning_stone',   // arg 1: output
+                '2x runes:lightning_stone',   // arg 1: output
                 'runes:lightning_stone',     // arg 2: the smithing template
                 '#c:stones',    // arg 3: the item to be upgraded
                 'create:experience_nugget'     // arg 4: the upgrade item
@@ -60,7 +60,7 @@ ServerEvents.recipes(event => {
                 'create:experience_nugget'     // arg 4: the upgrade item
         )
         event.smithing(
-                'runes:soul_stone',   // arg 1: output
+                '2x runes:soul_stone',   // arg 1: output
                 'runes:soul_stone',     // arg 2: the smithing template
                 '#c:stones',    // arg 3: the item to be upgraded
                 'create:experience_nugget'     // arg 4: the upgrade item
@@ -73,7 +73,7 @@ ServerEvents.recipes(event => {
                 'create:experience_nugget'     // arg 4: the upgrade item
         )
         event.smithing(
-                'runes:frost_stone',   // arg 1: output
+                '2x runes:frost_stone',   // arg 1: output
                 'runes:frost_stone',     // arg 2: the smithing template
                 '#c:stones',    // arg 3: the item to be upgraded
                 'create:experience_nugget'     // arg 4: the upgrade item
