@@ -48,46 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:0.5
 highContrast:false
 narratorHotkey:true
-resourcePacks:[
-        "vanilla",
-        "fabric",
-        "mod_resources",
-        "moonlight:merged_pack",
-        "continuity:default",
-        "continuity:glass_pane_culling_fix",
-        "file/Connected Paths v1.4.zip",
-        "file/Create Utility.zip",
-        "file/CreateSophStorage.zip",
-        "file/CreateSophisticatedBackpacks.zip",
-        "supplementaries:darker_ropes",
-        "file/Simple Grass Flowers v1.9.6.zip",
-        "file/Os\u0027 Colorful Grasses (Short and Fluffy).zip",
-        "file/Fancy Crops v1.3.zip",
-        "file/Better-Leaves-9.4.zip",
-        "file/FreshAnimations_v1.10.2.zip",
-        "file/FA+All_Extensions-v1.6.zip",
-        "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-        "file/AL\u0027s Zombies Revamped+FA 1.4.1.zip",
-        "file/AL\u0027s Creepers Revamped 1.5.2.zip",
-        "file/AL\u0027s Skeletons Revamped+FA 1.5.3.zip",
-        "file/AL\u0027s Boss Rush+FA 1.2.zip",
-        "file/Assorted Allays x FA - V.10.1.zip",
-        "file/MandalasGUI+Darkmode_1.21.5_1.zip",
-        "file/Mandala\u0027s GUI - Dark Mode Compat 0.3.zip",
-        "file/Serified Font v1.2.zip",
-        "file/Visual Titles 1.1.zip",
-        "black_icons",
-        "file/Icons v.1.12.1.zip",
-        "file/Icon Branding Remover - For 1.8-1.21.8.zip",
-        "file/Golden crit.zip",
-        "file/MC Dungeons Crit Sound 1.21.2 - 1.21.3.zip",
-        "file/AL\u0027s Dungeons Boss Bars 1.0.1.zip",
-        "file/§3Fresh §bFlower Pots.zip",
-        "file/YAGOP.zip",
-        "file/Banner Pattern Clarity v1.6.zip"
-        "file/Detail-Brush-1.8-1.20.2+.zip",
-        "file/Fine Armoury v1.7.zip",
-]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","file/AL\u0027s Dungeons Boss Bars 1.0.1.zip","file/Banner Pattern Clarity v1.6.zip","file/Better-Leaves-9.4.zip","file/Connected Paths v1.4.zip","file/Create Utility.zip","file/CreateSophStorage.zip","file/CreateSophisticatedBackpacks.zip","file/Detail-Brush-1.8-1.20.2+.zip","file/Fancy Crops v1.3.zip","file/Fine Armoury v1.7.zip","file/Icons v.1.12.1.zip","file/Icon Branding Remover - For 1.8-1.21.8.zip","file/Golden crit.zip","file/MC Dungeons Crit Sound 1.21.2 - 1.21.3.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip","file/Mandala\u0027s GUI - Dark Mode Compat 0.3.zip","file/Os\u0027 Colorful Grasses (Short and Fluffy).zip","file/Serified Font v1.2.zip","file/Simple Grass Flowers v1.9.6.zip","file/Visual Titles 1.1.zip","file/YAGOP.zip","file/§3Fresh §bFlower Pots.zip","black_icons","supplementaries:darker_ropes"]
 incompatibleResourcePacks:[""]
 lastServer:
 lang:en_us
