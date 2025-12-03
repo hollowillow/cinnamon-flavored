@@ -30,7 +30,7 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 - [ ] enable nebulae as default in shaders
 
 ### RECIPES
-- [ ] add recipes for horse armor
+- [x] add recipes for horse armor
 - [ ] make certain recipes shapeless
 - [ ] make recipes color agnostic
 - [ ] make some potions use different bases
@@ -49,7 +49,8 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 - [ ] remove duplicate wheat doughs from create and farmers delight
 - [ ] overlap between create auto crafting and vanilla auto crafting
 - [ ] overlap between daub from supplementaries and pulp from create
-- [ ] remove duplicate honey fluids from brewin and chewin and create
+- [x] remove duplicate honey fluids from brewin and chewin and create
+- [x] replace shulkers drop two mod with lootjs
 
 ### IDEAS
 - [ ] replace stone block drops (andesite, diorite etc) with cobbled variants
@@ -67,7 +68,7 @@ You can download the latest stable release as a zipfile or mrpack in [releases](
 
 ### POLISHING TOUCHES
 - [ ] add custom advancements
-- [ ] remove creative only items from appearing in emi
+- [x] remove creative only items from appearing in emi
 - [ ] remove undesired items
 - [ ] split modpack into client-side and server-side folders
 - [ ] configure structure generation
