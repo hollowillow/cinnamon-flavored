@@ -76,7 +76,7 @@
 	/**
 	 * The unit to display fluids as.
 	 */
-	fluid-unit: liters;
+	fluid-unit: millibuckets;
 
 	/**
 	 * Whether to use the batched render system. Batching is faster, but may have
@@ -88,7 +88,7 @@
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: true;
+	center-search-bar: false;
 
 	/**
 	 * Which sidebar type to switch to when searching.
@@ -172,12 +172,12 @@
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: none;
+	left-sidebar-subpanels: craftables 5;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 100;
+	left-sidebar-size: 8, 7;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -187,7 +187,7 @@
 	/**
 	 * Where to position the left sidebar
 	 */
-	left-sidebar-align: left, top;
+	left-sidebar-align: right, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
@@ -197,17 +197,17 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: transparent;
+	left-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index, craftables;
+	right-sidebar-pages: index;
 
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: none;
+	right-sidebar-subpanels: lookup-history 1;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
@@ -232,7 +232,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: transparent;
+	right-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the top sidebar
@@ -320,7 +320,7 @@
 	/**
 	 * Clears the search bar.
 	 */
-	clear-search: "key.keyboard.unknown";
+	clear-search: "ctrl key.keyboard.space";
 
 	/**
 	 * Display the recipes for creating a stack.
@@ -453,7 +453,7 @@
 	/**
 	 * Whether editing the index is enabled
 	 */
-	edit-mode: false;
+	edit-mode: true;
 
 	/**
 	 * Whether to log untranslated tags as warnings.
