@@ -1,0 +1,13 @@
+filename = 'txnilib-fabric-1.0.24-1.20.1.jar'
+name = 'TxniLib'
+side = 'both'
+
+[download]
+hash = '361fa6da97aff91e797a2ca50044ba3ce929901aea509bef7f4a14fd36bc7a52a45d07473aa4d3df108866788e257013823393d9df031cdb04cd901e97472873'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vBbPDuOs/versions/7toCynAY/txnilib-fabric-1.0.24-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'vBbPDuOs'
+version = '7toCynAY'

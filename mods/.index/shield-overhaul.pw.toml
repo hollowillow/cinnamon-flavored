@@ -1,0 +1,13 @@
+filename = 'shield_overhaul-2.0.4.jar'
+name = 'Shield Overhaul'
+side = 'both'
+
+[download]
+hash = '8490e8ab62c782b8998e55abb1af246e5c4e4a00a91c032a80797eaa73f4cc097683641ebc29dd1373b8489474dbc7b2d9f967506fbba92e1f06854c6eb96510'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XGoaJBjR/versions/BPxqRmMP/shield_overhaul-2.0.4.jar'
+
+[update.modrinth]
+mod-id = 'XGoaJBjR'
+version = 'BPxqRmMP'

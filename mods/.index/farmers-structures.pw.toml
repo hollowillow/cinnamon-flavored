@@ -1,0 +1,13 @@
+filename = 'FarmersStructures-1.0.0-1.20_fabric.jar'
+name = 'Farmers Structures'
+side = 'both'
+
+[download]
+hash = '609714d3b83e3ff77d12cfb2bb7ed67ba1542d5a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5666029
+project-id = 1088877

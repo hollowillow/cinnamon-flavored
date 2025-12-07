@@ -1,0 +1,13 @@
+filename = 'EndersDelight-1.20.1-1.0.2.refabricated.jar'
+name = "Ender's Delight"
+side = 'both'
+
+[download]
+hash = '9183646f4e84dacdb761bffbab236ffbf2a22503c3c516a440f9235e643dd78082930a44a9789827fd62327f305dfce1b14d0f11094d652d67a291a287224364'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2uEhdGKt/versions/gWaVevpz/EndersDelight-1.20.1-1.0.2.refabricated.jar'
+
+[update.modrinth]
+mod-id = '2uEhdGKt'
+version = 'gWaVevpz'

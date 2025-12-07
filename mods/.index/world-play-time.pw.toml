@@ -1,0 +1,13 @@
+filename = 'worldplaytime-1.2.3-1.20.x-FABRIC.jar'
+name = 'World Play Time'
+side = 'client'
+
+[download]
+hash = 'b2de3363edac284e35e95a103445d0474053bc1f5ec09e6b9ca656ce3ec7f620e982eb8f04bdc07ddc0e6d03423772981eb54c227905261174e333df0781cd5a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YkKeggdl/versions/47azxm1h/worldplaytime-1.2.3-1.20.x-FABRIC.jar'
+
+[update.modrinth]
+mod-id = 'YkKeggdl'
+version = '47azxm1h'

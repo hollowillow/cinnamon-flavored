@@ -1,0 +1,13 @@
+filename = 'opacpvp-fabric-1.0.1-1.20.1.jar'
+name = 'Open Parties and Claims PvP Support'
+side = 'server'
+
+[download]
+hash = 'a9b7ef1c38a5c8c7fb76de268b7aaa254cee9ee86b85b932a946b454144c801fa02bb3f4467214c804309ed669a09efb275c86feff1cbc8e71c028d117c95be0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xcparckV/versions/r68vfHEY/opacpvp-fabric-1.0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'xcparckV'
+version = 'r68vfHEY'

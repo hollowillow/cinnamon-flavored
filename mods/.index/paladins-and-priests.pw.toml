@@ -1,0 +1,13 @@
+filename = 'paladins-1.4.0+1.20.1.jar'
+name = 'Paladins & Priests (RPG Series)'
+side = 'both'
+
+[download]
+hash = '7b20d6fc68e88cad74371f858ba7c1e796819167fcb443a95cdc15e50c08846177a69a34ec8c287eedd0bd085be5b09686a79301e5079a8983c3422cab7c97e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FxXkHaLe/versions/jdQ0FXvF/paladins-1.4.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'FxXkHaLe'
+version = 'jdQ0FXvF'

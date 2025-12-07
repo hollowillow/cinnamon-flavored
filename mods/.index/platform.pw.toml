@@ -1,0 +1,13 @@
+filename = 'Platform-fabric-1.20.1-1.2.11.3.jar'
+name = 'Platform'
+side = 'both'
+
+[download]
+hash = 'b0487d22fcd2cc76bbb88cf7b27f2eb1d8d1493aea0630701a0f0fd2c88fdacef9f96acd8afdcc54cac5bc7abf8d2a7e4451a5b00d6c0774d04248fef897d983'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/i6fiqm5y/versions/jCKlMABP/Platform-fabric-1.20.1-1.2.11.3.jar'
+
+[update.modrinth]
+mod-id = 'i6fiqm5y'
+version = 'jCKlMABP'

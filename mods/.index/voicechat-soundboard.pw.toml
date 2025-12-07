@@ -1,0 +1,13 @@
+filename = 'soundboard-0.2.2.jar'
+name = 'Voice Chat Soundboard'
+side = 'client'
+
+[download]
+hash = '47be9fb90723f69d83cf65c747721c121a09f3f4d8767a7694fa994255694ded97928129485f4c9bc54e29ddce7c6302d3e250eaa26e8e2f1e23d07c676ba484'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N8s60DWW/versions/NAGDqqt7/soundboard-0.2.2.jar'
+
+[update.modrinth]
+mod-id = 'N8s60DWW'
+version = 'NAGDqqt7'

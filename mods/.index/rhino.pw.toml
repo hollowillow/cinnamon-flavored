@@ -1,0 +1,13 @@
+filename = 'rhino-fabric-2001.2.3-build.10.jar'
+name = 'Rhino'
+side = 'both'
+
+[download]
+hash = 'a1fd74cf31c0bf959803870c1ac3d918ae66fc1e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6186969
+project-id = 416294

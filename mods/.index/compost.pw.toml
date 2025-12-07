@@ -1,0 +1,13 @@
+filename = 'compost-fabric-1.20.1-2.1.1.jar'
+name = 'Compost'
+side = 'both'
+
+[download]
+hash = 'f18806605b63e95c0eee17eba398b4af82d26dcf2e84c76f540978bd74fef19bbe1beed4e895645a7ee86471f635774958c6a9c4f16eaa9e7fd8046385c1d913'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1hn9SStW/versions/UZBhxoPf/compost-fabric-1.20.1-2.1.1.jar'
+
+[update.modrinth]
+mod-id = '1hn9SStW'
+version = 'UZBhxoPf'

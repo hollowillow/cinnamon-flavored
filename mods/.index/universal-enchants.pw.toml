@@ -1,0 +1,13 @@
+filename = 'UniversalEnchants-v8.0.0-1.20.1-Fabric.jar'
+name = 'Universal Enchants'
+side = 'both'
+
+[download]
+hash = '7b82fc7f6c21ec1187a949fedf125dabe858d286c1a079fc54e936141f68511917d94f39d3637336eadb257adc91349c3ce5b8b3ba435c1baa286ff32af207eb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DT56YDir/versions/zJHxVFXO/UniversalEnchants-v8.0.0-1.20.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'DT56YDir'
+version = 'zJHxVFXO'

@@ -1,0 +1,13 @@
+filename = 'Block Swap-fabric-1.20.1-5.0.0.0.jar'
+name = 'Block Swap'
+side = 'both'
+
+[download]
+hash = '269372d573446229aa81416dd44e136220858e1999d4fd3946cd45fa4639ac39e3c70b4abcf4d3618fbff25c0714921e7ee1f69b43a6cef5320f1c36af40b1e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/f9kXyjJX/versions/o1meCfdj/Block Swap-fabric-1.20.1-5.0.0.0.jar'
+
+[update.modrinth]
+mod-id = 'f9kXyjJX'
+version = 'o1meCfdj'

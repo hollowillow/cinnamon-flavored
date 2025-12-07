@@ -1,0 +1,13 @@
+filename = 'AdvJS-2001fabric-2.9.4.jar'
+name = 'Advancement JS'
+side = 'both'
+
+[download]
+hash = '4f0083eb2fc86c18af81e1482051191cadb4f6686b643cdc095baae2ebdac3b223c2feaeee816d912004a77ab5e930a2e5caa252c588cc4feefd3dcd626e3025'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/djv5t1An/versions/mfXqm0vH/AdvJS-2001fabric-2.9.4.jar'
+
+[update.modrinth]
+mod-id = 'djv5t1An'
+version = 'mfXqm0vH'

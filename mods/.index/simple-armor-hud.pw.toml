@@ -1,0 +1,13 @@
+filename = 'simple-armor-hud-1.20.2-1.3.2.jar'
+name = 'Simple Armor Hud'
+side = 'client'
+
+[download]
+hash = '7c255c6f2c57405c0a492a585afd40768e61440fd6ee7551826ffaa03a8b3f59ca1eccaa800e5f0a8569af9c3189f8a61ec29d7490b3162e05e99de6bd1ecec4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tJflAtvJ/versions/qZuBkKeD/simple-armor-hud-1.20.2-1.3.2.jar'
+
+[update.modrinth]
+mod-id = 'tJflAtvJ'
+version = 'qZuBkKeD'

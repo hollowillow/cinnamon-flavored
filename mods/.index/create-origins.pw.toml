@@ -1,0 +1,13 @@
+filename = 'createorigins-1.5.0+1.20.1.jar'
+name = 'Create: Origins'
+side = 'both'
+
+[download]
+hash = 'ffce5602290b5c15d162c7fde96986e6b33fd13ba4fdbac7fafa0b9ee9f6b23ca4215cd6c6cc249663f8a99dd93364ecabfbda6a6dc67a764b1a802b0f28cc11'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PnhmwLM0/versions/WO8p6unV/createorigins-1.5.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'PnhmwLM0'
+version = 'WO8p6unV'

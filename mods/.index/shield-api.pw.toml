@@ -1,0 +1,13 @@
+filename = 'ShieldAPI-1.0.1+1.20.1.jar'
+name = 'Shield API'
+side = 'both'
+
+[download]
+hash = '0e3e7c67a6caf5824a6e0329cc41eb3dc4669cc08fe844b150a98bcce69c375b75a740281bdb6013707a4db8cb84c94e18982bd847be46ed10b254c84e18b807'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/y9clIFY4/versions/sLbfVkc1/ShieldAPI-1.0.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'y9clIFY4'
+version = 'sLbfVkc1'

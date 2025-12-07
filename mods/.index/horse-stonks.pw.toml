@@ -1,0 +1,13 @@
+filename = 'horse-stonks-1.0.1.jar'
+name = 'Horse Stonks'
+side = 'server'
+
+[download]
+hash = '8a5bff1be5364f6f56882e48e61c49f1bd0c7383a2917243759f5135448f84e38e0b9d01350bbb6b3cc067b2c9eea334d1c8cab07b6f4909cfa932fbac120219'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vj70oKlA/versions/1.0.1/horse-stonks-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'Vj70oKlA'
+version = 'XBg4RmNj'

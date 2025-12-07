@@ -1,0 +1,13 @@
+filename = 'distraction_free_recipes-fabric-1.2.1-1.20.1.jar'
+name = 'Distraction Free Recipes (EMI / REI / JEI)'
+side = 'client'
+
+[download]
+hash = '7732f6cb17d44a9c1c1d3caca4eab39fe19bb791724e64c209f50b7bc56b91b364e5640df86e531ce498d43caec9da002962ddf5d7b962e2dfded19244391465'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gbJLUhZP/versions/GdXrDwYH/distraction_free_recipes-fabric-1.2.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'gbJLUhZP'
+version = 'GdXrDwYH'

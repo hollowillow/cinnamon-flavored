@@ -1,0 +1,13 @@
+filename = 'pyrotechnic-elytra-fabric-1.20.1-1.0.0.jar'
+name = 'Pyrotechnic Elytra'
+side = 'server'
+
+[download]
+hash = '5d721030b36234e01e252996c0c82bd1aeaf9e7d4fe96bf591e2b0e8666681e31b36b463296801a41245c8cbda7da7f9deedffb38424ab29f2b67a5c89f2b301'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SomUrE3g/versions/oEdGYrR5/pyrotechnic-elytra-fabric-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'SomUrE3g'
+version = 'oEdGYrR5'

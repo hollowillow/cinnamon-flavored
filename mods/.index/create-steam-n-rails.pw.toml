@@ -1,0 +1,13 @@
+filename = 'Steam_Rails-1.6.14-beta+fabric-mc1.20.1.jar'
+name = "Create: Steam 'n' Rails"
+side = 'both'
+
+[download]
+hash = '1cd1d40eb3b3d50599aa115ed9c44e65d8ca283869830ef7f220c759e9d4f9393aa0284de99a98013e220af1edcc87b831745c2a83bc119cff570ba654ea5c49'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZzjhlDgM/versions/yMgmXIuq/Steam_Rails-1.6.14-beta%2Bfabric-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ZzjhlDgM'
+version = 'yMgmXIuq'

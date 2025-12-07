@@ -1,0 +1,13 @@
+filename = 'enchantmentdisabler-1.0.0+1.19.3.jar'
+name = 'Enchantment Disabler'
+side = 'both'
+
+[download]
+hash = '0dea229a3b7c8f554b44238e47312f63851ab17ee8b74a4f96ee2bfae9704145019951f803cf1d384cd5ba55f8bb95500d335f0dbec27fcf73193e71b19b8b6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Kd03i2oU/versions/pJ60xb1I/enchantmentdisabler-1.0.0%2B1.19.3.jar'
+
+[update.modrinth]
+mod-id = 'Kd03i2oU'
+version = 'pJ60xb1I'

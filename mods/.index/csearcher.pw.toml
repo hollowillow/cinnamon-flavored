@@ -1,0 +1,13 @@
+filename = 'ContainerSearcher-0.2.1+mc1.20.1.jar'
+name = 'ContainerSearcher'
+side = 'client'
+
+[download]
+hash = 'e1929f00440bf1fabc4a4297afba986e58d14d9646d8d95fe8979f03561e2bc50ab7e255674e51fbf9283cfb26e8b1ac46ffd8ea23c362609ca0f4b70dbd9b9c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IK1wshSh/versions/ZQpvzlVe/ContainerSearcher-0.2.1%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'IK1wshSh'
+version = 'ZQpvzlVe'

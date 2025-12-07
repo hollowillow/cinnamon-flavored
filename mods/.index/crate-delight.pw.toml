@@ -1,0 +1,13 @@
+filename = 'cratedelight-25.09.22-1.20-fabric.jar'
+name = 'Crate Delight'
+side = 'both'
+
+[download]
+hash = 'a78d97e0484d7627c4a04b839d9b93fbb718664bb11773dc906e2baadc74e66c0595d52cfe6258ef525c4ed9d4b569ac4cf59a97c5040547b5c94383009b24be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9rlXSyLg/versions/CjRQrJL8/cratedelight-25.09.22-1.20-fabric.jar'
+
+[update.modrinth]
+mod-id = '9rlXSyLg'
+version = 'CjRQrJL8'

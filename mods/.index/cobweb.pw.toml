@@ -1,0 +1,13 @@
+filename = 'cobweb-fabric-1.20.1-1.0.1.jar'
+name = 'Cobweb'
+side = 'both'
+
+[download]
+hash = '73ef1123bf56f3fbd4fe7b957fc5d720f35b19e1bd7c39e05f8402a4a6eafac8984fa8d464ba9848e8c5938948f37a8ce07adaa3be55dcb891fbbeff09602413'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dQcfqGbl/versions/X1GjRON0/cobweb-fabric-1.20.1-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'dQcfqGbl'
+version = 'X1GjRON0'

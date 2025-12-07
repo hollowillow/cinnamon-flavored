@@ -1,0 +1,13 @@
+filename = 'soundcontroller-1.2.3-mc1.20.jar'
+name = 'Sound Controller'
+side = 'client'
+
+[download]
+hash = '510f7c13fee8dd463f482af9c47b4eca0274ea2e06e4255db7620177b6421bbfc20edf80d5b9b23ad175057731b666ed99feb930c9dc16493abdd91fe15ec556'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uY9zbflw/versions/wmmrvZJq/soundcontroller-1.2.3-mc1.20.jar'
+
+[update.modrinth]
+mod-id = 'uY9zbflw'
+version = 'wmmrvZJq'

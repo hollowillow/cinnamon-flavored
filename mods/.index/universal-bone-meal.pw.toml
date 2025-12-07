@@ -1,0 +1,13 @@
+filename = 'UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar'
+name = 'Universal Bone Meal'
+side = 'both'
+
+[download]
+hash = '9318d28402e46a2710d7fe7a1cb42148a1c53d3deae470704b3b5278722eaa49e60389c4609c852ef7f2b3a9f6559955aff665b38e8226e60c1d3a92c492471a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/66VIiT1y/versions/aiTMkkNX/UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = '66VIiT1y'
+version = 'aiTMkkNX'
