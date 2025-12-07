@@ -1,0 +1,40 @@
+{
+    // Type: Integer
+    "crossbow_charge_time": 20,
+    // Type: Integer
+    "quick_charge_modifier": 3,
+    // Type: Integer
+    "airstrike_jumping_charge_time": 2,
+    // Type: Integer
+    "airstrike_grounded_charge_time": 30,
+    // Type: Float
+    "airstrike_damage_multiplier": 0.5,
+    // Type: Float
+    "mob_damage": 3.0,
+    // Type: Float
+    "player_damage": 3.0,
+    // Type: Float
+    "fireball_damage_bonus": 6.0,
+    // Type: Float
+    "burst_disable_shield_chance": 0.25,
+    "allow_rocket_jumping": true,
+    // Type: Double
+    "rocket_jump_knockback_multiplier": 1.0,
+    // Type: Double
+    "default_knockback_multiplier": 0.5,
+    // Type: Float
+    "air_strafe_speed_multiplier": 3.0,
+    "elytra_cancels_rocket_jumping": true,
+    "boost_cancels_rocket_jumping": true,
+    "crossbow_allow_infinity_enchantment": true,
+    "infinity_enchantment_affects_rockets": true,
+    "crossbow_use_rockets_from_inventory": true,
+    "rockets_have_damage_falloff": true,
+    // Type: Float
+    "rockets_damage_falloff_per_meter": 1.0,
+    // Type: Float
+    "rocket_damage_falloff_min_multiplier": 0.3,
+    // Type: Float
+    "rocket_damage_falloff_start_distance": 3.0,
+    "show_firework_damage_tooltip": true
+}
