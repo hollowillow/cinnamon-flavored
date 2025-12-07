@@ -1,5 +1,52 @@
 {
     "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "highlight_foused_items_foreground": false,
+        "enable_auto_refill": {
+            "value": false
+        },
         "first_run": false
+    },
+    "LockedSlotsSettings": {
+        "lock_slots_switch_config_modifier": {
+            "main": {
+                "keys": "LEFT_CONTROL,C"
+            }
+        },
+        "lock_slots_config_switch_type": "TOGGLE"
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "reload_custom_configs": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "sort_inventory": {
+            "main": {
+                "keys": "LEFT_CONTROL,Z"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": "LEFT_CONTROL,X"
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": "LEFT_SHIFT,Q"
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        }
     }
 }
