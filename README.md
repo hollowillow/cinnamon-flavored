@@ -11,7 +11,7 @@ You can download the latest stable release as a zipfile in [releases](https://gi
 - [ ] create separate server-side and client-side versions?
 
 ### ADD MODS
-- [ ] try and get serene seasons working (glitch core compat issues)
+- [x] try and get serene seasons working (moreculling incompat)
 - [ ] try and get effortless structure working (broken crouch)
 - [ ] add roadarchitect or similar
 
@@ -49,6 +49,9 @@ You can download the latest stable release as a zipfile in [releases](https://gi
 - [ ] remove duplicate wheat doughs from create and farmers delight
 - [ ] overlap between create auto crafting and vanilla auto crafting
 - [ ] remove duplicate honey fluids from brewin and chewin and create
+
+#### TAGS
+- [ ] serene seasons compat
 
 ### TEXTURES
 - [ ] retexture currency
