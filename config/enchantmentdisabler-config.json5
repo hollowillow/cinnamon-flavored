@@ -1,0 +1,25 @@
+{
+	"disablerEnabled": false,
+	"disabledEnchantments": [
+		"minecraft:mending"
+	],
+	"maxLevelNest": {
+		"modifyMaxLevels": false,
+		"maxLevels": [
+			"minecraft:sharpness/5"
+		]
+	},
+	"tradesNest": {
+		"modifyEnchantedBookTradeUses": false,
+		"maxEnchantedBookTradeUses": 12,
+		"modifyEnchantedItemTradeUses": false,
+		"maxEnchantedItemTradeUses": 3,
+		"enchantedBookTradeRestockEnabled": true,
+		"enchantedItemTradeRestockEnabled": true
+	},
+	"enchantingTableNest": {
+		"enchantingTableEnabled": true,
+		"modifyLapisCost": false,
+		"lapisCostFormula": "id+1"
+	}
+}
